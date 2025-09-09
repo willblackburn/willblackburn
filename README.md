@@ -27,13 +27,6 @@
   <span style="position: absolute; bottom: -5px; left: 0; width: 0; height: 2px; background: linear-gradient(90deg, #C27F3E, #D5B57E); transition: width 0.3s ease; animation: underline 2s ease-in-out;"></span>
 </h1>
 
-<style>
-@keyframes underline {
-  0% { width: 0; }
-  100% { width: 100%; }
-}
-</style>
-
 <p style="font-size: 1.1em; line-height: 1.5;">Hi 👋, I am Will. an enthusiastic and ambitious web developer, passionate about creating innovative solutions and unique branding for my clients. I’m a full-stack developer and creative technologist who brings a rare cross-disciplinary skill set—combining advanced front-end development, visual design, 3D engine experience, and have an Ocd like passion for SEO. ✨.</p>
 
 <div>
