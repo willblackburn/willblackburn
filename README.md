@@ -26,7 +26,7 @@
 
 <br>
 
-<h1 style="font-size: 1.15em; margin: 10px 0; position: relative; display: inline-block;">
+<h1 style="font-size: 1em; margin: 10px 0; position: relative; display: inline-block;">
   ABOUT ME
   <span style="position: absolute; bottom: -5px; left: 0; width: 0; height: 2px; background: linear-gradient(90deg, #C27F3E, #D5B57E); transition: width 0.3s ease; animation: underline 2s ease-in-out;"></span>
 </h1>
