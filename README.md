@@ -77,27 +77,27 @@
   <span style="position: absolute; bottom: -5px; left: 0; width: 0; height: 2px; background: linear-gradient(90deg, #C27F3E, #D5B57E); transition: width 0.3s ease; animation: underline 2s ease-in-out;"></span>
 </h1>
 
-<div style="display: flex; width: 100%; gap: 1rem;">
-  <div style="display: flex; flex-direction: column; gap: 1rem; width: 50vw;">
-    <img src="https://github-readme-stats.vercel.app/api?username=willblackburn&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" style="width: 100%; height: 190px; object-fit: contain;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=willblackburn&theme=dark&hide_border=true" alt="GitHub Streak" style="width: 100%; height: 190px; object-fit: contain;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willblackburn&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="width: 100%; height: 190px; object-fit: contain;" />
-  </div>
-  <div style="width: 50vw;">
-    <img src="images/hero-vertical.webp" alt="Coding Illustration" style="width: 100%; height: 600px; object-fit: cover;" />
-  </div>
-</div>
+<table width="100%">
+<tr>
+<td width="50%" style="vertical-align: top;">
+<img src="https://github-readme-stats.vercel.app/api?username=willblackburn&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" style="width: 100%; height: 190px; object-fit: contain; margin-bottom: 1rem;" />
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=willblackburn&theme=dark&hide_border=true" alt="GitHub Streak" style="width: 100%; height: 190px; object-fit: contain; margin-bottom: 1rem;" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willblackburn&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="width: 100%; height: 190px; object-fit: contain;" />
+</td>
+<td width="50%">
+<img src="images/hero-vertical.webp" alt="Coding Illustration" style="width: 100%; height: 600px; object-fit: cover;" />
+</td>
+</tr>
+</table>
 
 <br>
 
 <h1 style="font-size: 1.15em; margin: 10px 0; position: relative; display: inline-block;">
-  CONTACT:
+  SKILLS:
   <span style="position: absolute; bottom: -5px; left: 0; width: 0; height: 2px; background: linear-gradient(90deg, #C27F3E, #D5B57E); transition: width 0.3s ease; animation: underline 2s ease-in-out;"></span>
 </h1>
-
-<div style="text-align: center; margin: 10px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=FF8C00&center=true&vCenter=true&width=435&lines=w_blackburn@outlook.com;Canterbury, Kent;UK" alt="Typing SVG" />
-</div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 20px 0;">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" class="tech-badge" />
