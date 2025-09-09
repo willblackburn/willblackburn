@@ -42,30 +42,28 @@
   <span style="position: absolute; bottom: -5px; left: 0; width: 0; height: 2px; background: linear-gradient(90deg, #C27F3E, #D5B57E); transition: width 0.3s ease; animation: underline 2s ease-in-out;"></span>
 </h1>
 
-<table width="100%" style="border: none; border-collapse: collapse;">
+<table width="100%" style="border: none; border-collapse: collapse; margin: 0; padding: 0;">
 <tr>
-<td width="70%" style="border: none; padding: 0;">
-<img src="images/project-1.webp" alt="Project Showcase" style="width: 100%; height: 400px; object-fit: cover;" />
+<td width="70%" style="border: none; padding: 0; margin: 0;">
+<img src="images/project-1.webp" alt="Project Showcase" style="width: 100%; height: 400px; object-fit: cover; margin: 0; padding: 0; display: block;" />
 </td>
-<td width="30%" style="vertical-align: top; border: none; padding: 0;">
-<img src="images/project-2.webp" alt="Project 1" style="width: 100%; height: 192px; object-fit: cover; margin-bottom: 1rem;" />
-<br>
-<img src="images/project-3.webp" alt="Project 2" style="width: 100%; height: 192px; object-fit: cover;" />
+<td width="30%" style="vertical-align: top; border: none; padding: 0; margin: 0;">
+<img src="images/project-2.webp" alt="Project 1" style="width: 100%; height: 192px; object-fit: cover; margin: 0; padding: 0; display: block;" />
+<img src="images/project-3.webp" alt="Project 2" style="width: 100%; height: 192px; object-fit: cover; margin: 0; padding: 0; display: block;" />
 </td>
 </tr>
 </table>
 
 <br>
 
-<table width="100%" style="border: none; border-collapse: collapse;">
+<table width="100%" style="border: none; border-collapse: collapse; margin: 0; padding: 0;">
 <tr>
-<td width="30%" style="vertical-align: top; border: none; padding: 0;">
-<img src="images/project-2.webp" alt="Project 3" style="width: 100%; height: 192px; object-fit: cover; margin-bottom: 1rem;" />
-<br>
-<img src="images/project-3.webp" alt="Project 4" style="width: 100%; height: 192px; object-fit: cover;" />
+<td width="30%" style="vertical-align: top; border: none; padding: 0; margin: 0;">
+<img src="images/project-2.webp" alt="Project 3" style="width: 100%; height: 192px; object-fit: cover; margin: 0; padding: 0; display: block;" />
+<img src="images/project-3.webp" alt="Project 4" style="width: 100%; height: 192px; object-fit: cover; margin: 0; padding: 0; display: block;" />
 </td>
-<td width="70%" style="border: none; padding: 0;">
-<img src="images/project-1.webp" alt="Project Showcase" style="width: 100%; height: 400px; object-fit: cover;" />
+<td width="70%" style="border: none; padding: 0; margin: 0;">
+<img src="images/project-1.webp" alt="Project Showcase" style="width: 100%; height: 400px; object-fit: cover; margin: 0; padding: 0; display: block;" />
 </td>
 </tr>
 </table>
