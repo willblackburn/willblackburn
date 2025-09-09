@@ -42,23 +42,33 @@
   <span style="position: absolute; bottom: -5px; left: 0; width: 0; height: 2px; background: linear-gradient(90deg, #C27F3E, #D5B57E); transition: width 0.3s ease; animation: underline 2s ease-in-out;"></span>
 </h1>
 
-<div style="display: flex; align-items: flex-start; width: 100%; gap: 1rem;">
-  <img src="images/project-1.webp" alt="Project Showcase" style="width: 70%; height: 400px; object-fit: cover;" />
-  <div style="display: flex; flex-direction: column; gap: 1rem; width: 30%;">
-    <img src="images/project-2.webp" alt="Project 1" style="width: 100%; height: 200px; object-fit: cover;" />
-    <img src="images/project-3.webp" alt="Project 2" style="width: 100%; height: 200px; object-fit: cover;" />
-  </div>
-</div>
+<table width="100%">
+<tr>
+<td width="70%">
+<img src="images/project-1.webp" alt="Project Showcase" style="width: 100%; height: 400px; object-fit: cover;" />
+</td>
+<td width="30%" style="vertical-align: top;">
+<img src="images/project-2.webp" alt="Project 1" style="width: 100%; height: 192px; object-fit: cover; margin-bottom: 1rem;" />
+<br>
+<img src="images/project-3.webp" alt="Project 2" style="width: 100%; height: 192px; object-fit: cover;" />
+</td>
+</tr>
+</table>
 
 <br>
 
-<div style="display: flex; align-items: flex-start; width: 100%; gap: 1rem;">
-  <div style="display: flex; flex-direction: column; gap: 0; width: 30%;">
-    <img src="images/project-2.webp" alt="Project 3" style="width: 100%; height: 200px; object-fit: cover;" />
-    <img src="images/project-3.webp" alt="Project 4" style="width: 100%; height: 200px; object-fit: cover;" />
-  </div>
-  <img src="images/project-1.webp" alt="Project Showcase" style="width: 70%; height: 400px; object-fit: cover;" />
-</div>
+<table width="100%">
+<tr>
+<td width="30%" style="vertical-align: top;">
+<img src="images/project-2.webp" alt="Project 3" style="width: 100%; height: 192px; object-fit: cover; margin-bottom: 1rem;" />
+<br>
+<img src="images/project-3.webp" alt="Project 4" style="width: 100%; height: 192px; object-fit: cover;" />
+</td>
+<td width="70%">
+<img src="images/project-1.webp" alt="Project Showcase" style="width: 100%; height: 400px; object-fit: cover;" />
+</td>
+</tr>
+</table>
 
 <br>
 
