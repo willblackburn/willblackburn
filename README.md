@@ -1,7 +1,7 @@
   <div>
     <img src="images/hero.webp" alt="Coding Illustration" style="width: 100%; height: auto;" />
   </div>
-
+&#8287;&#8287;
 <p align="right" style="margin-top: 2rem;">
   <a href="https://www.youtube.com/channel/your-channel" target="_blank">
     <img src="images/youtube_1.svg" alt="YouTube" width="38" height="38" style="border: 1px solid #c2ad7e; padding: 5px; background-color: #c2ad7e; filter: brightness(0);" class="tech-badge" />
