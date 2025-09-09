@@ -1,30 +1,30 @@
-<!-- <div style="background-color: #0d1117; min-height: 100vh; color: #ffffff; margin: 0; padding: 0;">
+<div style="background-color: #0d1117; min-height: 100vh; color: #ffffff; margin: 0; padding: 0;">
 <style>
 body { background-color: #0d1117 !important; margin: 0 !important; padding: 0 !important; }
 html { background-color: #0d1117 !important; margin: 0 !important; padding: 0 !important; }
 h1 { color: #ffffff !important; }
 .tech-badge { transition: transform 0.3s ease, box-shadow 0.3s ease; }
-.tech-badge:hover { transform: translateY(-3px) scale(1.05);  }
-</style> -->
+.tech-badge:hover { transform: translateY(-3px) scale(1.05); box-shadow: 0 5px 15px rgba(0, 217, 255, 0.3); }
+</style>
   <div>
     <img src="images/hero.webp" alt="Coding Illustration" style="width: 100%; height: auto;" />
   </div>
 
 <div style="display: flex; justify-content: flex-end; align-items: center; gap: 1rem; margin-top:1rem">
   <a href="https://www.youtube.com/channel/your-channel" target="_blank">
-    <img src="images/youtube_1.svg" alt="YouTube" width="38" height="38" class="tech-badge" />
+    <img src="images/youtube_1.svg" alt="YouTube" width="38" height="38" style="border: 1px solid #c2ad7e; padding: 5px; background-color: #c2ad7e; filter: brightness(0);" class="tech-badge" />
   </a>
   <a href="https://www.youtube.com/channel/your-channel" target="_blank">
-    <img src="images/youtube_1.svg" alt="YouTube" width="38" height="38" class="tech-badge" />
+    <img src="images/youtube_1.svg" alt="YouTube" width="38" height="38" style="border: 1px solid #c2ad7e; padding: 5px; background-color: #c2ad7e; filter: brightness(0);" class="tech-badge" />
   </a>
   <a href="https://www.youtube.com/channel/your-channel" target="_blank">
-    <img src="images/youtube_1.svg" alt="YouTube" width="38" height="38" class="tech-badge" />
+    <img src="images/youtube_1.svg" alt="YouTube" width="38" height="38" style="border: 1px solid #c2ad7e; padding: 5px; background-color: #c2ad7e; filter: brightness(0);" class="tech-badge" />
   </a>
   <a href="https://www.youtube.com/channel/your-channel" target="_blank">
-    <img src="images/youtube_1.svg" alt="YouTube" width="38" height="38" class="tech-badge" />
+    <img src="images/youtube_1.svg" alt="YouTube" width="38" height="38" style="border: 1px solid #c2ad7e; padding: 5px; background-color: #c2ad7e; filter: brightness(0);" class="tech-badge" />
   </a>
   <a href="https://www.youtube.com/channel/your-channel" target="_blank">
-    <img src="images/youtube_1.svg" alt="YouTube" width="38" height="38" class="tech-badge" />
+    <img src="images/youtube_1.svg" alt="YouTube" width="38" height="38" style="border: 1px solid #c2ad7e; padding: 5px; background-color: #c2ad7e; filter: brightness(0);" class="tech-badge" />
   </a>
 </div>
 
@@ -57,22 +57,22 @@ h1 { color: #ffffff !important; }
   <span style="position: absolute; bottom: -5px; left: 0; width: 0; height: 2px; background: linear-gradient(90deg, #C27F3E, #D5B57E); transition: width 0.3s ease; animation: underline 2s ease-in-out;"></span>
 </h1>
 
-<div style="display: flex; align-items: center; width: 100%; gap: 1rem;">
-  <img src="images/project-1.webp" alt="Project Showcase" style="width: 70%; height: 400px;" />
-  <div style="display: flex; flex-direction: column; gap: 1rem; width: 30%;">
-    <img src="images/project-2.webp" alt="Project 1" style="width: 100%; height: 192px;" />
-    <img src="images/project-3.webp" alt="Project 2" style="width: 100%; height: 192px;" />
+<div style="display: flex; align-items: flex-start; width: 100%; gap: 0;">
+  <img src="images/project-1.webp" alt="Project Showcase" style="width: 70%; height: 400px; object-fit: cover;" />
+  <div style="display: flex; flex-direction: column; gap: 0; width: 30%;">
+    <img src="images/project-2.webp" alt="Project 1" style="width: 100%; height: 200px; object-fit: cover;" />
+    <img src="images/project-3.webp" alt="Project 2" style="width: 100%; height: 200px; object-fit: cover;" />
   </div>
 </div>
 
 <br>
 
-<div style="display: flex; align-items: center; width: 100%; gap: 1rem;">
-  <div style="display: flex; flex-direction: column; gap: 1rem; width: 30%;">
-    <img src="images/project-2.webp" alt="Project 3" style="width: 100%; height: 192px;" />
-    <img src="images/project-3.webp" alt="Project 4" style="width: 100%; height: 192px;" />
+<div style="display: flex; align-items: flex-start; width: 100%; gap: 0;">
+  <div style="display: flex; flex-direction: column; gap: 0; width: 30%;">
+    <img src="images/project-2.webp" alt="Project 3" style="width: 100%; height: 200px; object-fit: cover;" />
+    <img src="images/project-3.webp" alt="Project 4" style="width: 100%; height: 200px; object-fit: cover;" />
   </div>
-  <img src="images/project-1.webp" alt="Project Showcase" style="width: 70%; height: 400px;" />
+  <img src="images/project-1.webp" alt="Project Showcase" style="width: 70%; height: 400px; object-fit: cover;" />
 </div>
 
 <br>
