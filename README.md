@@ -48,7 +48,7 @@
 
 <table width="100%" style="border: none; border-collapse: collapse; margin: 0; padding: 0;">
 <tr>
-<td width="70%" style="border: none; padding: 0; margin: 0;">
+<td width="70%">
 <img src="images/project-1.webp" alt="Project Showcase" style="width: 100%; height: 400px; object-fit: cover; margin: 0; padding: 0; display: block;" />
 </td>
 <td width="30%" style="vertical-align: top; border: none; padding: 0; margin: 0;">
